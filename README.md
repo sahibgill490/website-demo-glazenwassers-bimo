@@ -1,7 +1,3 @@
-# Glazenwassers BIMO — Website Concept
+# Glazenwassers BIMO website concept
 
-Independent website concept preview created for Glazenwassers BIMO. This is not the business’s live website.
-
-## GitHub Pages
-
-After pushing this repository, open **Settings → Pages**, select **Deploy from a branch**, and choose **main / (root)**.
+Individually designed Dutch local-service website concept for **Glazenwassers BIMO** in **Amsterdam**. The deployed demo is a concept only and uses no fabricated reviews, testimonials, operational promises, or unverified service details.
